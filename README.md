@@ -1,3 +1,9 @@
+<style>
+  body{
+    bgcolor: black;
+  }
+</style>
+<body>
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 
@@ -22,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorav22&show_icons=true&locale=en" alt="gorav22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorav22&" alt="gorav22" /></p>
+</body>
