@@ -1,9 +1,4 @@
-<style>
-  body{
-    bgcolor: black;
-  }
-</style>
-<body>
+<body style="background-color: black;">
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 
