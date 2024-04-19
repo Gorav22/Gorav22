@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gorav22/Gorav22/output/snake.svg" alt="Snake animation" />
-
-###
