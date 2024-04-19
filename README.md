@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    a {
+      color: #fff;
+    }
+    img {
+      filter: invert(1);
+    }
+  </style>
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorav22&show_icons=true&locale=en&layout=compact" alt="gorav22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorav22&show_icons=true&locale=en" alt="gorav22" /></p>
+</body>
+</html>
