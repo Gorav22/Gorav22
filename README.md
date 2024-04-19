@@ -1,22 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <style>
-    body {
-      background-color: #000;
-      color: #fff;
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    a {
-      color: #fff;
-    }
-    img {
-      filter: invert(1);
-    }
-  </style>
-</head>
-<body>
+  <body style="background-color: black">
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
