@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/gorav-jindal-5a2495295/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorav22" height="30" width="40" /></a>
-<a href="https://kaggle.com/goravjindal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gorav22" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@goravjindal86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@goravjindal86" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gorav-jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gorav-jindal" height="30" width="40" /></a>
+<a href="https://kaggle.com/goravjindal02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="goravjindal02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/goravjindal86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="goravjindal86" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/goravjindal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="goravjindal/profile" height="30" width="40" /></a>
 </p>
 
@@ -24,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorav22&show_icons=true&locale=en" alt="gorav22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorav22&" alt="gorav22" /></p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gorav22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gorav22" /></a></p><br><br>
