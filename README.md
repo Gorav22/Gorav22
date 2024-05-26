@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <h3 align="center">A Passionate Developer</h3>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gorav-jindal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gorav-jindal?trk=profile-badge">Gorav Jindal</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorav22" alt="gorav22" /></a> </p>
