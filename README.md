@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gorav Jindal</h1>
 <h3 align="center">A FullStack and AI/ML Enthusiast</h3>
 
-<img src="https://th.bing.com/th/id/OIG1.2m8qGwqDcE29GX1_CWBJ?w=1024&h=1024&rs=1&pid=ImgDetMain">
+<img src="https://tse4.mm.bing.net/th?id=OIG2.a7qTv7IAFbEOXh.3x2GR&pid=ImgGn">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorav22" alt="gorav22" /></a> </p>
