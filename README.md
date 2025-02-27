@@ -1,11 +1,7 @@
 <h2 align="center">Hi 👋! I am Gorav Jindal</h2>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Gorav22/count.svg?"  />
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 ###
 
 <br clear="both">
