@@ -1,18 +1,18 @@
 <h2 align="center">Hi 👋! I am Gorav Jindal</h2>
 
-###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
-###
+
 
 <br clear="both">
 
 <img align="right" height="200" src="https://tse4.mm.bing.net/th?id=OIG2.a7qTv7IAFbEOXh.3x2GR&pid=ImgGn"  />
 
-###
+
 
 <p align="left">🌱 I Know Full stack, AI/ML and DSA.<br>👩‍💻 I am Currently Working on a project of an AI Agent and a npm package.<br>📫 How to reach me goravjindal86@gmail.com<br>💬 Ask me about React, Nodejs, flask, Django, Machine Learning, Artificial Intelligence, Nextjs<br>⚡ Fun fact ⚡ Fun fact "Coding feels like a walk in the park... peaceful and breezy.. until you realize the park is full of wild bugs! 🐛💻 But hey, squashing those bugs is like a mini victory, right? 🏆"</p>
 
-###
+
 
 <br clear="both">
 
@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorav22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -43,11 +43,11 @@
   </a>
 </div>
 
-###
+
 
 <img src="https://raw.githubusercontent.com/Gorav22/Gorav22/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -163,4 +163,3 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-###
