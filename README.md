@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://drive.google.com/file/d/1UzRZYVRtAdbNkaAstUE4k_pg-mZ-JpsZ/view?usp=sharing"  />
+<img align="right" height="200" src="https://github.com/Gorav22/Gorav22/blob/main/developer%20doing%20coding.png"  />
 
 
 
