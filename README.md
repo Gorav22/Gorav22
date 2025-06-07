@@ -10,7 +10,7 @@
 
 
 
-<p align="left">🌱 I Know Full stack, AI/ML and DSA in C++.<br>👩‍💻 I am Currently Working on a project of an MCP.<br>📫 How to reach me goravjindal86@gmail.com<br>💬 Ask me about React, Nodejs, flask, Django, Machine Learning, Artificial Intelligence, Nextjs<br>⚡ Fun fact ⚡ Fun fact "Coding feels like a walk in the park... peaceful and breezy.. until you realize the park is full of wild bugs! 🐛💻 But hey, squashing those bugs is like a mini victory, right? 🏆"</p>
+<p align="left">🌱 I Know Full stack, AI/ML, Data Scientist and DSA in C++.<br>👩‍💻 I am Currently Working on a project of an MCP.<br>📫 How to reach me goravjindal86@gmail.com<br>💬 Ask me anything about React, Nodejs, flask, Django, Machine Learning, Artificial Intelligence, Deep Learning, PowerBI, Nextjs, MCP. <br>⚡ Fun fact ⚡ Fun fact "Coding feels like a walk in the park... peaceful and breezy.. until you realize the park is full of wild bugs! 🐛💻 But hey, squashing those bugs is like a mini victory, right? 🏆"</p>
 
 
 
