@@ -28,16 +28,35 @@
 
 <br clear="both">
 <br>
+
+### 📈 DSA Analytics
+
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>🚀 GeeksForGeeks</strong></p>
+</p>
 <div align ="center">
-  <a href="https://www.geeksforgeeks.org/user/goravjindal/"><img src="https://gfgstatscard.vercel.app/goravjindal"></a><br>
+  <a href="https://www.geeksforgeeks.org/user/goravjindal/"><img src="https://gfgstatscard.vercel.app/goravjindal"></a>
+</div>
+
+<p align="center">
+  <p align="center"><strong style='font-size:24px;'>💡 Codeforces </strong></p>
+</p>
+<div align ="center">
   <a href="https://codeforces.com/profile/gorav22"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=gorav22"></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gorav22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorav22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gorav22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180em" alt="stats graph"  /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorav22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br clear="both">
 
