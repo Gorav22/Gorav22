@@ -1,5 +1,7 @@
 <a href="https://gorav22.onrender.com/"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Gorav22%20" alt="Gorav22" width="1500" />
 <p align="center">
+    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gorav22&label=Profile%20views&color=0e75b6&style=flat" alt="gorav22" /> </p>
 <a href="https://gorav22.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
     <br>
     <a href="https://www.linkedin.com/in/gorav22/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
