@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Gorav Jindal</h2>
+<a href="https://gorav22.onrender.com/"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Gorav22%20" alt="Gorav22" width="1500" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
