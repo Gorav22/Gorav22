@@ -21,6 +21,7 @@
 <br>
 <div align="center">
   <a href="https://www.geeksforgeeks.org/user/goravjindal/"><img src="https://gfgstatscard.vercel.app/goravjindal"></a>
+  <a href="https://codeforces.com/profile/gorav22"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=gorav22"></a>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gorav22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
