@@ -19,7 +19,7 @@
 
 <br clear="both">
 <br>
-<div align="center">
+<div>
   <a href="https://www.geeksforgeeks.org/user/goravjindal/"><img src="https://gfgstatscard.vercel.app/goravjindal"></a>
   <a href="https://codeforces.com/profile/gorav22"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=gorav22"></a>
 </div>
