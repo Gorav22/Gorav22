@@ -41,6 +41,10 @@
   <p align="center"><strong style='font-size:24px;'>💡 Codeforces </strong></p>
 </p>
 
+<div align ="center">
+  <a href="https://codeforces.com/profile/gorav22"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=gorav22"></a>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
