@@ -13,7 +13,6 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <br clear="both">
 
 <img align="right" height="200" src="https://github.com/Gorav22/Gorav22/blob/main/coding.png"  />
