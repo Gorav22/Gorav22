@@ -9,7 +9,7 @@
     <a href="https://auth.geeksforgeeks.org/user/goravjindal"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" /></a>
     <a href="https://www.hackerrank.com/gorav22"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <!--     <a href="https://codeforces.com/profile/gorav22"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a> -->
-    <a href="https://www.codechef.com/users/gorav22"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/gorav02"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -42,7 +42,9 @@
 </p>
 
 <div align ="center">
-  <a href="https://codechef.com/users/gorav02"><img src="https://codechef-readme-stats.onrender.com/gorav02?v=1"></a>
+    <a href="https://www.codechef.com/users/gorav02">
+    <img src="https://codechef-readme-stats.onrender.com/gorav02?v=1">
+</a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
