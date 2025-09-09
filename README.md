@@ -37,15 +37,6 @@
   <a href="https://www.geeksforgeeks.org/user/goravjindal/"><img src="https://gfgstatscard.vercel.app/goravjindal"></a>
 </div>
 
-<p align="center">
-  <p align="center"><strong style='font-size:24px;'>💡 CodeChef </strong></p>
-</p>
-
-<div align ="center">
-    <a href="https://www.codechef.com/users/gorav02">
-    <img src="https://codechef-readme-stats.onrender.com/gorav02?v=1">
-</a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
